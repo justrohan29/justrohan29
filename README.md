@@ -17,7 +17,7 @@
 ## 🧰 Tech Stack
 
 - **Languages:** Python, C++
-- **AI/ML/DL:** Transformers, CNNs, LLMs, BERT, GPT, BART
+- **AI/ML/DL:** Transformers, CNNs, LLMs
 - **Frameworks & Tools:** LangChain, HuggingFace, PyTorch, TensorFlow
 - **Interests:** Generative AI, Model Fine-tuning, Prompt Engineering
 
