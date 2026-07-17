@@ -1,52 +1,36 @@
-
-# Rohan Singh
-
-> Build things that scale. Ship fast. Learn faster.
-
-Computer Science @ DTU.
-
-## Interests
-
-- AI Agents
-- Backend Systems
-- Distributed Infrastructure
-- Quant & Market Microstructure
-- Product Engineering
-
-## Selected Work
-
-- Autonomous arbitrage engine across prediction and derivatives markets.
-- Distributed browser automation platform with Playwright & Redis.
-- AI healthcare claim auditing using RAG and document intelligence.
-- LegalTech platform serving students, mentors, recruiters, and enterprises.
-
-## Stack
-
-**Languages**
-
-Python • Go • TypeScript • SQL • C++ • Java
-
-**Frameworks**
-
-FastAPI • Next.js • React • Node.js • Django • Flask
-
-**AI**
-
-LangGraph • LangChain • Hugging Face • PyTorch • FAISS • RAG • LLMs
-
-**Infra**
-
-Docker • Kubernetes • PostgreSQL • Redis • AWS • Linux
-
-## A Few Things
-
-- 2nd Place — 0xGenIgnite Hackathon
-- Built systems serving thousands of requests/day
-- Love products with difficult engineering problems
+#  Hi, I'm Rohan.
+### Building AI-native products, autonomous systems, multi-agent workflows, and scalable platforms.
+# interests:
+  - AI Agents
+  - Backend Engineering
+  - Distributed Systems
+  - System Design
+  - Developer Infrastructure
 
 ---
 
-> "The whole is greater than the sum of its parts."
->
-> — Aristotle
-```
+# 🌐 Socials
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rohnis)
+[![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:justrohan29@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/justrohan29)
+
+---
+
+# 💻 Tech Stack
+
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white) ![Java](https://img.shields.io/badge/Java-E76F00?style=for-the-badge&logo=openjdk&logoColor=white) ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white) ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white) ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white) ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white) ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white) ![gRPC](https://img.shields.io/badge/gRPC-4285F4?style=for-the-badge) ![REST](https://img.shields.io/badge/REST-005571?style=for-the-badge) ![WebSockets](https://img.shields.io/badge/WebSockets-010101?style=for-the-badge) ![AsyncIO](https://img.shields.io/badge/AsyncIO-3776AB?style=for-the-badge) ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs) ![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss) ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter) ![LangChain](https://img.shields.io/badge/LangChain-16A34A?style=for-the-badge) ![LangGraph](https://img.shields.io/badge/LangGraph-7C3AED?style=for-the-badge) ![PydanticAI](https://img.shields.io/badge/PydanticAI-E92063?style=for-the-badge) ![LlamaIndex](https://img.shields.io/badge/LlamaIndex-6D28D9?style=for-the-badge) ![LiteLLM](https://img.shields.io/badge/LiteLLM-059669?style=for-the-badge) ![DSPy](https://img.shields.io/badge/DSPy-2563EB?style=for-the-badge) ![CrewAI](https://img.shields.io/badge/CrewAI-7C3AED?style=for-the-badge) ![AutoGen](https://img.shields.io/badge/AutoGen-0EA5E9?style=for-the-badge) ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai) ![Anthropic](https://img.shields.io/badge/Anthropic-191919?style=for-the-badge) ![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google) ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch) ![Transformers](https://img.shields.io/badge/Transformers-FFCA28?style=for-the-badge) ![FAISS](https://img.shields.io/badge/FAISS-2563EB?style=for-the-badge) ![ChromaDB](https://img.shields.io/badge/ChromaDB-7C3AED?style=for-the-badge) ![Qdrant](https://img.shields.io/badge/Qdrant-DC2626?style=for-the-badge) ![Milvus](https://img.shields.io/badge/Milvus-00BFA6?style=for-the-badge) ![Pinecone](https://img.shields.io/badge/Pinecone-0EA5E9?style=for-the-badge) ![Weaviate](https://img.shields.io/badge/Weaviate-00C4B3?style=for-the-badge) ![RAG](https://img.shields.io/badge/RAG-0EA5E9?style=for-the-badge) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker) ![Docker Compose](https://img.shields.io/badge/Docker_Compose-2496ED?style=for-the-badge&logo=docker) ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes) ![Helm](https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb) ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite) ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase) ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws) ![Google Cloud](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare) ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel) ![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge) ![Nginx](https://img.shields.io/badge/NGINX-009639?style=for-the-badge&logo=nginx) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions) ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus) ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana) ![Sentry](https://img.shields.io/badge/Sentry-362D59?style=for-the-badge&logo=sentry) ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright) ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium) ![Firecrawl](https://img.shields.io/badge/Firecrawl-F97316?style=for-the-badge) ![OpenRouter](https://img.shields.io/badge/OpenRouter-8B5CF6?style=for-the-badge)
+
+---
+
+# 📊 GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api?username=justrohan29&theme=tokyonight&hide_border=true&show_icons=true)
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=justrohan29&theme=tokyonight&hide_border=true)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=justrohan29&layout=compact&theme=tokyonight&hide_border=true)
+
+---
+
