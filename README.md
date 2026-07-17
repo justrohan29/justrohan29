@@ -1,29 +1,52 @@
-# Hi there, I'm Rohan! 👋
 
-🎓 **Student @ Delhi Technological University (DTU) — Computer Science & Engineering**
+# Rohan Singh
+
+> Build things that scale. Ship fast. Learn faster.
+
+Computer Science @ DTU.
+
+## Interests
+
+- AI Agents
+- Backend Systems
+- Distributed Infrastructure
+- Quant & Market Microstructure
+- Product Engineering
+
+## Selected Work
+
+- Autonomous arbitrage engine across prediction and derivatives markets.
+- Distributed browser automation platform with Playwright & Redis.
+- AI healthcare claim auditing using RAG and document intelligence.
+- LegalTech platform serving students, mentors, recruiters, and enterprises.
+
+## Stack
+
+**Languages**
+
+Python • Go • TypeScript • SQL • C++ • Java
+
+**Frameworks**
+
+FastAPI • Next.js • React • Node.js • Django • Flask
+
+**AI**
+
+LangGraph • LangChain • Hugging Face • PyTorch • FAISS • RAG • LLMs
+
+**Infra**
+
+Docker • Kubernetes • PostgreSQL • Redis • AWS • Linux
+
+## A Few Things
+
+- 2nd Place — 0xGenIgnite Hackathon
+- Built systems serving thousands of requests/day
+- Love products with difficult engineering problems
 
 ---
 
-## 🚀 About Me
-
-- 👨‍💻 Passionate about Artificial Intelligence, Machine Learning, and Deep Learning.
-- 🤖 Love working with Large Language Models (LLMs), especially BERT, GPT, BART, and other Transformer-based architectures.
-- 🛠️ Skilled in Python and C++.
-- 🧠 Enjoy building projects using frameworks like LangChain and HuggingFace Transformers.
-- 🎵 Music enthusiast in my free time.
-
----
-
-## 🧰 Tech Stack
-
-- **Languages:** Python, C++
-- **AI/ML/DL:** Transformers, CNNs, LLMs
-- **Frameworks & Tools:** LangChain, HuggingFace, PyTorch, TensorFlow
-- **Interests:** Generative AI, Model Fine-tuning, Prompt Engineering
-
----
-
-## 📫 Let's Connect!
-
-Feel free to reach out if you want to collaborate, discuss AI, or just share some music recommendations!
-
+> "The whole is greater than the sum of its parts."
+>
+> — Aristotle
+```
